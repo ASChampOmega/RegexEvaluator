@@ -7,4 +7,4 @@ I did not even read any documentation or guides on what the existing algorithm w
 
 
 There is only one minor bug in the program that I found:
-1. If you do something like (a*)+ which is basically (a+) which does work, but the (a*)+ doesn't work.
+1. If you do something like '(a*)+' which is basically 'a+' which does work, but the (a*)+ doesn't work.
